@@ -1,0 +1,8 @@
+    O polimorfismo, em programação, é uma técnica que consiste em 
+selecionarmos de maneira dinâmica funcionalidades de acordo com
+uma lógica ao decorrer da execução do programa de modo que podemos utilizar
+customizadamente metodos que possuem a mesma característica aparente, contudo
+implementações diferentes.
+    
+
+
